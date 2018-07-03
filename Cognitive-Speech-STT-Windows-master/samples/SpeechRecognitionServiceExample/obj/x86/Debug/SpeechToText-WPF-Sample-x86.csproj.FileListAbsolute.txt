@@ -1,0 +1,16 @@
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x86\Debug\SpeechToText-WPF-Sample.exe.config
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x86\Debug\SpeechToText-WPF-Sample.exe.config
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x86\Debug\batman.wav
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x86\Debug\whatstheweatherlike.wav
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x86\Debug\SpeechToText-WPF-Sample.exe
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x86\Debug\SpeechToText-WPF-Sample.pdb
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x86\Debug\SpeechClient.dll
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x86\Debug\SpeechToText-WPF-Sample-x86.csprojResolveAssemblyReference.cache
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x86\Debug\MainWindow.baml
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x86\Debug\App.g.cs
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x86\Debug\SpeechToText-WPF-Sample_Content.g.cs
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x86\Debug\SpeechToText-WPF-Sample_MarkupCompile.cache
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x86\Debug\SpeechToText-WPF-Sample.g.resources
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x86\Debug\SpeechToText-WPF-Sample.exe
+C:\Users\guptautk\Documents\hack the strategy\hackthestrategy2\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x86\Debug\SpeechToText-WPF-Sample.pdb

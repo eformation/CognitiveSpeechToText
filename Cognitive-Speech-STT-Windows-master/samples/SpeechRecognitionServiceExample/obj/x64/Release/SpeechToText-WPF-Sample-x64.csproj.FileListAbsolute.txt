@@ -1,0 +1,12 @@
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x64\Release\batman.wav
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x64\Release\whatstheweatherlike.wav
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x64\Release\SpeechToText-WPF-Sample.exe.config
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x64\Release\SpeechToText-WPF-Sample.exe
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\bin\x64\Release\SpeechClient.dll
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x64\Release\MainWindow.baml
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x64\Release\MainWindow.g.cs
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x64\Release\App.g.cs
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x64\Release\SpeechToText-WPF-Sample_Content.g.cs
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x64\Release\SpeechToText-WPF-Sample_MarkupCompile.cache
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x64\Release\SpeechToText-WPF-Sample.g.resources
+C:\sap\Cognitive-Speech-STT-Windows-master\samples\SpeechRecognitionServiceExample\obj\x64\Release\SpeechToText-WPF-Sample.exe
